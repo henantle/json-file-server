@@ -1,0 +1,9 @@
+version: "1"
+services:
+  json-file-server:
+    container_name: json-file-server
+    image: json-file-server
+    ports:
+      - 9104:9104
+    build:
+      context: .

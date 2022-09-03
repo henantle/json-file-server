@@ -1,0 +1,15 @@
+{
+    "firstName": "Racks",
+    "lastName": "Jacson",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "Udhna",
+        "city": "San Jone",
+        "state": "CA",
+        "postalCode": "95221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "27627" }
+    ]
+}

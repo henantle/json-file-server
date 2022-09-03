@@ -1,0 +1,15 @@
+{
+    "firstName": "Sasha",
+    "lastName": "Lesley",
+    "gender": "female",
+    "age": 44,
+    "address": {
+        "streetAddress": "Example",
+        "city": "Los Asol",
+        "state": "FL",
+        "postalCode": "84123"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "79841" }
+    ]
+}

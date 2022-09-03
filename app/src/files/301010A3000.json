@@ -1,0 +1,15 @@
+{
+  "firstName": "George",
+  "lastName": "Macron",
+  "gender": "man",
+  "age": 74,
+  "address": {
+      "streetAddress": "Venta",
+      "city": "Springfield",
+      "state": "TX",
+      "postalCode": "24785"
+  },
+  "phoneNumbers": [
+      { "type": "home", "number": "13467" }
+  ]
+}
