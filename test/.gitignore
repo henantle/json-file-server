@@ -1,0 +1,13 @@
+log.html
+report.html
+output.xml
+bri.xml
+results/
+results_ui/
+temp/
+*.bak
+*.pyc
+*.png
+.creads
+__pycache__
+venv/
