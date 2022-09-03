@@ -100,7 +100,7 @@ app.post("/fetch", function (req, res) {
   });
 });
 
-//Listen port
-const PORT = 9104;
-app.listen(PORT);
-console.log(`Live & Kicking on port ${PORT}`);
+// process.env.PORT for Heroku and 9104 for local use
+const LOCAL_PORT = 9104
+app.listen(process.env.PORT || LOCAL_PORT);
+console.log(`Live & Kicking on port ${(process.env.PORT || LOCAL_PORT)}`);
