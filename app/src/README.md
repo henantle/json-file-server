@@ -1,4 +1,5 @@
 # json-file-server
+A simple Json SQL webservice to serve files as rest api responses. SQL enables adding and removing responses when needed.
 
 # Installation
 ```bash
